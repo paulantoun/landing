@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&family=Fjalla+One&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bolder;
+}
+
+h1,h2{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+#center-text h2{
+	text-align: center;
+	margin: 60px 0 30px 0;
+	font-size: 40px;
+}
+
